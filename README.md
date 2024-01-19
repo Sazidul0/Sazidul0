@@ -1,4 +1,4 @@
-![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
+![MasterHead](https://i.ibb.co/FwKCGC5/Github-Banner.gif)
 <h1 align="center">👋 Hello World! I'm Sazidul Islam</h1>
 <h3 align="center">A passionate Computer Science student with a knack for crafting digital experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
