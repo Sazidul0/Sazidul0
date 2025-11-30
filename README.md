@@ -28,18 +28,18 @@ Currently diving deep into **Web Application Penetration Testing**, ethical hack
 </p>
 
 
-## 🚀 sudo apt update && sudo apt install sazidul-islam
+## 🚀 sudo apt update && sudo apt install skills
 
 ```yaml
 Reading package lists... Done
 Building dependency tree... Done
 The following NEW package will be installed:
-  sazidul-islam/security+dev
+  skills/security+dev
 
 Need to get 1337 MB of archives.
 After this operation, 3.14 GB of disk space will be used.
 
-Unpacking sazidul-islam_1.0-allround.deb ...
+Unpacking sills_1.0-allround.deb ...
 
 Core languages:
   • JavaScript  • Python • Dart • C/C++ • Bash
@@ -63,7 +63,7 @@ Currently mastering:
   • Flutter secure coding & state management
   • SOC analyst workflows → eventual Purple Team
 
-Setting up sazidul-islam ...
+Setting up skills ...
 [+] Adding to sudo, docker, flutter, wireshark, wazuh groups
 [+] Installing caffeine, black-coffee, and 3AM-CTF dependencies
 
@@ -72,9 +72,6 @@ Installation complete!
 ┌──(sazid㉿ubuntu)-[~]
 └─$ whoami
 sazidul-islam
-
-┌──(sazid㉿ubuntu)-[~]
-└─$ echo "From XSS to SIEM, I speak both languages."
 
 ┌──(sazid㉿ubuntu)-[~]
 └─$ neofetch
